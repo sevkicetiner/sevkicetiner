@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sevki</h1>
 <h3 align="center">A passionate mobile developer from Belgium</h3>
 
-- 🔭 I’m currently working on [Woonenzo Mobile projects](https://play.google.com/store/apps/details?id=com.woonenzo.tracker&hl=TR) and [Woonenzo Employees](https://play.google.com/store/apps/details?id=nl.woonenzo.woonenzo_employees&hl=TR)
+- 🔭 I’m currently working on [Woonenzo Delivery](https://play.google.com/store/apps/details?id=com.woonenzo.tracker&hl=TR) and [Woonenzo Employees](https://play.google.com/store/apps/details?id=nl.woonenzo.woonenzo_employees&hl=TR)
 
 - 🌱 I’m currently learning **Cloud functions, Serverless Development, CI/CD, Clean Code and Clean Architechture**
 
