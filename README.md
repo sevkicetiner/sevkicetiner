@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sevki</h1>
 <h3 align="center">A passionate mobile developer from Belgium</h3>
 
-- 🔭 I’m currently working as Mobile and Web developer. 
+- 🔭 I’m a Mobile Developer. I have been working for 7 years as a Mobile and Web Developer. 
 
-- 🌱 I’m currently learning **Cloud functions, Serverless Development, CI/CD, Clean Code and Clean Architechture**
+- 🌱 I’m currently learning **Cloud functions, Serverless Development, CI/CD, Clean Code, and Clean architecture**
 
 - 👨‍💻 All of my projects are available at [www.ctnr.dev](www.ctnr.dev)
 
-- 💬 Ask me about **Android, Flutter, Firebase, iOS**
+- 💬 Ask me about **Android, Flutter, Angular, Firebase, iOS**
 
 - 📫 How to reach me **sevki.ctnr@gmail.com**
 
