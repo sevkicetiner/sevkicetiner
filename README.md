@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sevki</h1>
 <h3 align="center">A passionate mobile developer from Belgium</h3>
 
-- 🌱 I’m currently working as Full-Stack Developer with ** Spring Boot with Kotlin/Java and Angular** 
+- 🌱 I’m currently working as Full-Stack Developer with **Spring Boot with Kotlin/Java and Angular** 
 
 - 🔭 I worked as Android and Flutter developer mostly. I have been working for 7 years as Android Developer, and 4 years as Flutter Developer. 
 
